@@ -16,11 +16,10 @@
 
 ---
 
-## 📈 Evaluation Metrics (To be Updated)
-
+## 📈 Evaluation Metrics 
 
 - ✅ **Training Accuracy:** 
 - ✅ **Validation Accuracy:** 
-- ✅ **Test Accuracy:** 
+- ✅ **Test Accuracy:** 0.9633
 - ✅ **Test Loss:** 
 - ✅ **F1 Scores:** 
