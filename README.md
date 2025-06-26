@@ -18,8 +18,8 @@
 
 ## 📈 Evaluation Metrics 
 
-- ✅ **Training Accuracy:** 
-- ✅ **Validation Accuracy:** 
-- ✅ **Test Accuracy:** 0.9633
-- ✅ **Test Loss:** 
-- ✅ **F1 Scores:** 
+- ✅ **Training Accuracy:** 0.9864
+- ✅ **Validation Accuracy:** 0.9567
+- ✅ **Test Accuracy:** 0.9433
+- ✅ **Test Loss:** 0.1627
+- ✅ **F1 Scores:** 0.94
